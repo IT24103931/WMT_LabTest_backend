@@ -12,7 +12,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://wmt-lab-test-frontend.vercel.app"
+    "https://wmt-lab-test-frontend-a.vercel.app"
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE"],
